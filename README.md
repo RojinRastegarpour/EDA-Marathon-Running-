@@ -15,3 +15,5 @@ The analysis includes:
 -Examination of average speeds across different seasons for both race distances
 
 Key findings include the greater popularity of 50km races and insights into how different factors (gender, age, season) influence athletes' performance.
+
+Dataset : https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data
