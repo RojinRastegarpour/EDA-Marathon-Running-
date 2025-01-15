@@ -1,19 +1,11 @@
-***Ultra-Marathon Running Analysis (2020 - 50mi and 50km Races in the USA)***
+# Ultra-Marathon Running Analysis (2020 - 50mi and 50km Races in the USA)
 
-This project analyzes ultra-marathon race data from 2020, specifically focusing on 50-mile and 50-kilometer races in the USA. The dataset, sourced from Kaggle, was cleaned and processed to create a subset for the selected races.
+This project focuses on analyzing ultra-marathon race data from 2020, specifically examining 50-mile and 50-kilometer races in the USA. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data), cleaned, and processed to create a subset for the selected race distances.
 
-The analysis includes:
+## Analysis Overview
 
--Exploratory data analysis and visualizations
+The analysis covers the following aspects:
 
--Comparison of the popularity of 50mi vs 50km races
-
--Investigation of athletes' average speeds for both races, broken down by gender
-
--Analysis of the best and worst age groups in the 50mi race
-
--Examination of average speeds across different seasons for both race distances
-
-Key findings include the greater popularity of 50km races and insights into how different factors (gender, age, season) influence athletes' performance.
-
-Dataset : https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data
+- **Exploratory Data Analysis (EDA)**: Visualizations and statistical summaries of the dataset.
+- **Race Popularity Comparison**: Evaluating the relative popularity of 50mi vs 50km races.
+- **Performance by Gender**: Investigating athletes' average speeds for both race distances, broken down by gender.
